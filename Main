@@ -3,7 +3,7 @@ Mod for PE only not working on android (yet) do not copy this is script!!!
 New Blocks Mod */
 
 //Welcome message
-clientMessage(ChatColor.BLUE + "NewBlocks by " + ChatColor.GREEN + "ninjpro67");
+clientMessage(ChatColor.BLUE + "NewBlocks by " + ChatColor.GREEN + "ninjapro67");
 //Other info
 clientMessage(ChatColor.YELLOW + "Report bugs to me at ethan.cripps@yahoo.co.uk)
 
@@ -12,6 +12,7 @@ Block.defineBlock(255,"NinjaproBlock",0,"ninjaproblock");
 Block.defineBlock(257,(Chocolate Cake",0,"cake");
 //Items
 Item.ModPE(256,"Candy",0,"apple");
+Item.ModPE(258,"Candy Sword",0,"diamond_sword");
 
 
 
