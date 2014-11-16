@@ -1,0 +1,16 @@
+/*
+Mod for PE only not qorking on android (yet) do not copy this is script!!!
+New Blocks Mod */
+
+//Welcome message
+clientMessage(ChatColor.BLUE + "NewBlocks by " + ChatColor.GREEN + "ninjpro67");
+//Other info
+clientMessage(ChatColor.YELLOW + "Report bugs to me at ethan.cripps@yahoo.co.uk)
+
+//Blocks
+Block.defineBlock(255,"NinjaproBlock",0,"ninjaproblock");
+
+//Items
+Item.ModPE(256,"Candy",0,"apple");
+
+
